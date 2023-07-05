@@ -1,0 +1,15 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "rasa"
+    },
+    {
+      "type": "Action.Submit",
+      "title" : "rasa12345"
+    }
+  ]
+}

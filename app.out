@@ -1,0 +1,2222 @@
+nohup: ignoring input
+/usr/local/lib/python3.8/site-packages/botbuilder/schema/__init__.py:80: UserWarning: The Bot Framework Python SDK is being retired with final long-term support ending in November 2023, after which this repository will be archived. There will be no further feature development, with only critical security and bug fixes within this repository being undertaken. Existing bots built with this SDK will continue to function. For all new bot development we recommend that you adopt Power Virtual Agents.
+  warn(
+unhandled exception during asyncio.run() shutdown
+task: <Task finished name='Task-1874' coro=<_run_app() done, defined at /usr/local/lib64/python3.8/site-packages/aiohttp/web.py:287> exception=OSError(98, "error while attempting to bind on address ('192.168.100.5', 8080): address already in use")>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/web.py", line 508, in run_app
+    loop.run_until_complete(main_task)
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+    return future.result()
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/web.py", line 411, in _run_app
+    await site.start()
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/web_runner.py", line 121, in start
+    self._server = await loop.create_server(
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 1463, in create_server
+    raise OSError(err.errno, 'error while attempting '
+OSError: [Errno 98] error while attempting to bind on address ('192.168.100.5', 8080): address already in use
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+packet queue is empty, aborting
+pygame 2.1.2 (SDL 2.0.16, Python 3.8.15)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+THISNOIANSDOIANSDOINASD
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+Im connected
+SIS id is  5b9aTp2uHTpsaILzAARR
+Traceback (most recent call last):
+  File "app.py", line 5490, in <module>
+    raise error
+  File "app.py", line 5488, in <module>
+    web.run_app(APP, host="192.168.100.5", port=CONFIG.PORT)  #https://192.168.100.5:8080
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/web.py", line 508, in run_app
+    loop.run_until_complete(main_task)
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 616, in run_until_complete
+    return future.result()
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/web.py", line 411, in _run_app
+    await site.start()
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/web_runner.py", line 121, in start
+    self._server = await loop.create_server(
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 1463, in create_server
+    raise OSError(err.errno, 'error while attempting '
+OSError: [Errno 98] error while attempting to bind on address ('192.168.100.5', 8080): address already in use
+/usr/local/lib/python3.8/site-packages/engineio/asyncio_client.py:206: RuntimeWarning: coroutine 'ClientSession.close' was never awaited
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d2b63580>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d2b63820>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d2b2eb20>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1eb54f0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1ebf2e0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1ebf850>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1ecc190>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1ecc880>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1ed6580>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1ee2370>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1ee28e0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e6a220>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e760d0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e76610>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e7f400>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e7f970>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e8b2b0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e96190>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e966a0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e9e1c0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e9ea00>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e2b040>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e34250>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e34760>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e40220>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e40ac0>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e4c490>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e53280>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e537f0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e602b0>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e60b50>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1deb520>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1df6310>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1df6880>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e001c0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e00fd0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e0d5b0>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e193a0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e19910>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1e21250>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1daa0d0>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1daa640>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1db72b0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1db79a0>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1dc02e0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1dcd190>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1dcd6d0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1dd8070>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1dd8a30>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1de4070>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d6b250>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d6b760>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d77220>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d77ac0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d85490>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d8e280>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d8e7f0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d9a2b0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d9ab50>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1da3520>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d2e310>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d2e880>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d371c0>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d37fd0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d455b0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d4d3a0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d4d910>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d58250>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d630d0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d63640>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1cee070>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1cee9a0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1cfa2e0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d07160>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d07700>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d0f0a0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d0fa60>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1d1c0a0>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1ca6250>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1ca6790>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1cb2250>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1cb2af0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1cba4c0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1cc52b0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1cc5820>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1cd22e0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1cd2850>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1cdb580>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c67370>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c678e0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c72220>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c790a0>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c79610>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c87400>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c87970>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c922b0>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c9c190>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c9c6a0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c27040>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c27a00>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c31040>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c3d1f0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c3d730>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c490d0>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c49ac0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c54490>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c5c280>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c5c7f0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1be82b0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1be8b50>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1bf2520>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1bfc340>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1bfc880>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c0a1c0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c14040>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c145e0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c1f3d0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1c1f940>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1ba9280>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1bb3100>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1bb3670>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1bc0070>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1bc09d0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1bc9310>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1bd31c0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1bd3700>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1bde0a0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1bdea60>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b6a0a0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b76250>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b767c0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b81280>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b81b20>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b8d4f0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b952e0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b95850>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1ba1190>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1ba1880>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b2b580>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b36370>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b368e0>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b41220>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b4a0a0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b4a610>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b56430>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b56970>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b622b0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1aec190>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1aec6a0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1af7040>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1af7a00>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b01040>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b0c1f0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b0c730>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b171f0>
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f95d1b17a90>
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
+Exception ignored in: <function ClientResponse.__del__ at 0x7f95f95021f0>
+Traceback (most recent call last):
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_reqrep.py", line 803, in __del__
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 170, in release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/connector.py", line 650, in _release
+  File "/usr/local/lib64/python3.8/site-packages/aiohttp/client_proto.py", line 63, in close
+  File "/usr/lib64/python3.8/asyncio/selector_events.py", line 692, in close
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 719, in call_soon
+  File "/usr/lib64/python3.8/asyncio/base_events.py", line 508, in _check_closed
+RuntimeError: Event loop is closed
